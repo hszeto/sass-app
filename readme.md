@@ -7,3 +7,5 @@ You should be able to do a ```git pull``` and then a ```bundle install``` and ``
 As a class, we'll use SASS to style the app together and highlight some of the things you can do.
 
 Feel free to use this app as additional Rails practice after the lesson (finish out CRUD functionality, style some views differently, etc.).
+
+From WDI week 5.
